@@ -304,13 +304,13 @@ DIVIDE(
 ## 📸 Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](Screenshots/executive_overview.png)
 
 ### No-Show Analysis
-![No-Show Analysis](screenshots/noshow_analysis.png)
+![No-Show Analysis](Screenshots/noshow_analysis.png)
 
 ### Billing & Revenue Analysis
-![Billing Analysis](screenshots/billing_analysis.png)
+![Billing Analysis](Screenshot/billing_analysis.png)
 
 ---
 
