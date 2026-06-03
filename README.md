@@ -304,7 +304,7 @@ DIVIDE(
 ## 📸 Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](Screenshots/executive_overview.png)
+![Executive Overview](Screenshot/executive_overview.png)
 
 ### No-Show Analysis
 ![No-Show Analysis](Screenshots/noshow_analysis.png)
