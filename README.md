@@ -307,7 +307,7 @@ DIVIDE(
 ![Executive Overview](Screenshot/executive_overview.png)
 
 ### No-Show Analysis
-![No-Show Analysis](Screenshots/noshow_analysis.png)
+![No-Show Analysis](Screenshot/noshow_analysis.png)
 
 ### Billing & Revenue Analysis
 ![Billing Analysis](Screenshot/billing_analysis.png)
