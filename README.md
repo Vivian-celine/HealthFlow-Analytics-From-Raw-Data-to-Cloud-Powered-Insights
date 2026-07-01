@@ -158,7 +158,7 @@ The dashboard is structured across 3 analytical pages plus a recommendations pag
 | Metric | Value |
 |---|---|
 | Total Appointments | 1,528 |
-| Total Patients | 420 |
+| Total Patients | 32 |
 | Total Revenue | 34.05M |
 | Revenue Lost | 19.58M |
 | No-Show Rate | 16.10% |
